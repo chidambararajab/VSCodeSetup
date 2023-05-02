@@ -1,0 +1,62 @@
+{
+  "editor.minimap.enabled": false,
+  "files.autoSaveDelay": 500,
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.format.semicolons": "ignore",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "git.autofetch": true,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "dart.openDevTools": "flutter",
+  "workbench.iconTheme": "material-icon-theme",
+  "tabnine.experimentalAutoImports": true,
+  "emmet.excludeLanguages": ["markdown"],
+  "emmet.preferences": {},
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.donotVerifyTags": true,
+  "bracketPairColorizer.depreciation-notice": false,
+  "explorer.confirmDelete": false,
+  "reactSnippets.settings.importReactOnTop": false,
+  "editor.inlineSuggest.enabled": true,
+  "git.mergeEditor": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "java.import.gradle.java.home": "/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home",
+  "java.jdt.ls.java.home": "/Library/Java/JavaVirtualMachines/zulu-11.jdk/Contents/Home",
+  "chatgpt.gpt3.apiKey": "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",
+  "editor.fontSize": 12.5,
+  "editor.stickyScroll.enabled": true,
+  "errorLens.excludeBySource": [
+    "dart(undefined_named_parameter)",
+    "dart(prefer_const_constructors)"
+  ],
+  "dart.flutterSdkPath": "/Users/chidambararajab/Documents/Personal/Chid/Project/FlutterDevelopment/flutter",
+  "window.zoomLevel": 1
+}
